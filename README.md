@@ -24,12 +24,14 @@ Prowadzący: dr Piotr Czarnik, mgr Bartosz Grygielski
 - [Zasady zaliczenia](Zasady%20zaliczenia%20laboratoria.md)
 - [Lista 1](Lista%201)
 - [Lista 2](Lista%202)
+- [Lista 3](Lista%203)
 
 ## Lista wykładów
 
 - [Wykład 1 ](Kryptografia_1.pdf)
+- [Wykład 2 ](Kryptografia_2.pdf)
+- [Wykład 3 ](Kryptografia_3.pdf)
 - [Uzupełnienie matematyczne 1](Kryptografia___uzupełnienie_matematyczne_1.pdf)
 - [Uzupełnienie matematyczne 2](Kryptografia___uzupełnienie_matematyczne_2.pdf)
 - [Uzupełnienie matematyczne 3](Kryptografia___uzupełnienie_matematyczne_3.pdf)
 
-## Zestawy zadań 
